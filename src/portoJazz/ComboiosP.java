@@ -5,7 +5,7 @@ public class ComboiosP extends Bilhete{
 
 	private Origem origem;
 	
-	public ComboiosP(String origem)
+	public ComboiosP(Origem origem)
 	{
 		super();
 		super.setPreco(5.00f);
